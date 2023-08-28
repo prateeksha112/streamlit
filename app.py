@@ -4,7 +4,7 @@ from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 import pickle
 
-from streamlit.runtime.metrics_util import F
+# from streamlit.runtime.metrics_util import F
 
 st.write("""
 # Finding the largest among the 3 given numbers
